@@ -77,7 +77,7 @@
     <source-file src="src/android/nl/xservices/plugins/FileProvider.java" target-dir="src/nl/xservices/plugins"/>
     <source-file src="src/android/res/xml/sharing_paths.xml" target-dir="res/xml"/>
 
-    <framework src="com.android.support:support-v13:25.2.0" />
+    <framework src="com.android.support:support-v13:25.3.1" />
   </platform>
 
   <!-- wp8 -->
